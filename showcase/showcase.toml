@@ -1,0 +1,11 @@
+[[media]]
+file = "rally.png"
+name = "A live bank-shot rally"
+
+[[media]]
+file = "rally.json.gz"
+name = "A curving rally in motion"
+
+[[media]]
+file = "title.png"
+name = "Choose your duel"
